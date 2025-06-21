@@ -1,1 +1,6 @@
-
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "description": "SPL token metadata formatted for Metaplex integration, intended for user interface testing and wallet compatibility validation across the Solana ecosystem.",
+  "image": "https://devappvibes.github.io/usdt-metadata/logo.png"
+}
